@@ -122,6 +122,7 @@
 	<string name="keyboard_layout_azeri_cyrillic">Azeri Cyrillic</string>
 	<string name="keyboard_layout_swedish_dvorak_a1">Swedish Dvorak (Svorak A1)</string>
 	<string name="keyboard_layout_swedish_with_sami">Swedish with Sami</string>
+	<string name="keyboard_layout_norwegian_dvorak">Norwegian Dvorak</string>
 	<string name="keyboard_layout_uzbek_cyrillic">Uzbek Cyrillic</string>
 	<string name="keyboard_layout_mongolian_mongolian_script">Mongolian (Mongolian Script)</string>
 	<string name="keyboard_layout_inuktitut_latin">Inuktitut - Latin</string>
